@@ -66,5 +66,5 @@
     </ol>
   </div>
   <h2>짧은 게임 GIF</h2>
-  <iframe width="360" height="202" src="https://youtu.be/V7T6Vzx0gH4" frameborder="0" allowfullscreen></iframe>
+  <object data="https://www.youtube.com/embed/87bg_YAfaPw" width="360" height="202"></object>
 </body>
