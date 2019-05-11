@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 배경 화면 -->
+    <string-array name="BackGround">
+        <item>거실</item>
+        <item>왁도날드</item>
+        <item>고기집</item>
+        <item>찜닭집</item>
+        <item>치킨집</item>
+        <item>무한뷔페</item>
+        <item>파오후 성소</item>
+    </string-array>
+
+</resources>
