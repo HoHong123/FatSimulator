@@ -21,7 +21,6 @@
   <div>
     <ol>
       <li><b>사용된 시스템</b><br>
-        <li>
           <ul>List Spinner</ul>
           <ul>SQLite DB 2개(게임 정보, 유저 정보)</ul>
           <ul>Intent를 통한 유저 정보 전달</ul>
@@ -32,7 +31,6 @@
           <ul>커스텀 폰트 적용</ul>
           <ul>액티비티 전환 애니메이션 활용</ul>
           <ul>미디어 플레이어를 통한 사운드 출력</ul>
-        </li>
       </li>
       <br>
       <li><b>게임 씬</b><br>
