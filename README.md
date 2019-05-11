@@ -66,5 +66,5 @@
     </ol>
   </div>
   <h2>짧은 작동 영상</h2>
-  [linkname](https://youtubevideourl)
+  [![Video Label](Images/메뉴.jpg)](https://youtu.be/V7T6Vzx0gH4) Video Label
 </body>
