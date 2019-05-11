@@ -57,7 +57,7 @@
       - 게임을 종료하거나 업그레이드, 배경 구매가 이루어지면 다음 작업 시작<br>
         1. 유저 데이터는 업그레이드 성공으로 얻은 값을 해당 데이터에 저장
         2. 게임 데이터는 업그레이드 성공 시, 다음 업그레이드에 필요한 값이나 배경을 지목하여 데이터 저장
-      <img src="Image/데이터저장.png" width="80%"><br>
+      <img src="Images/데이터저장.png" width="80%"><br>
       </li>
       <br>
       <li><b>사이툴을 통한 그래픽 제작 및 외부 폰트 적용</b><br>
@@ -66,5 +66,5 @@
     </ol>
   </div>
   <h2>짧은 게임 GIF</h2>
-  <object data="https://www.youtube.com/embed/87bg_YAfaPw" width="360" height="202"></object>
+  <object data="https://youtu.be/V7T6Vzx0gH4" width="360" height="202"></object>
 </body>
