@@ -66,5 +66,5 @@
     </ol>
   </div>
   <h2>짧은 작동 영상</h2>
-  [![Video Label](http://img.youtube.com/vi/V7T6Vzx0gH4/0.jpg)](https://youtu.be/V7T6Vzx0gH4) 
+  [![Video Label](https://img.youtube.com/vi/V7T6Vzx0gH4/0.jpg)](https://youtu.be/V7T6Vzx0gH4) 
 </body>
