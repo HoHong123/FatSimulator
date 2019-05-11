@@ -65,6 +65,6 @@
       </li>
     </ol>
   </div>
-  <h2>짧은 게임 GIF</h2>
-  <object data="https://youtu.be/V7T6Vzx0gH4" width="360" height="202"></object>
+  <h2>짧은 작동 영상</h2>
+  [linkname](https://youtubevideourl)
 </body>
