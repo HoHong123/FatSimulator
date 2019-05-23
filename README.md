@@ -35,7 +35,7 @@
       <br>
       <li><b>게임 씬</b><br>
         - 메뉴 스크린을 터치하면 로그인 창을 통해 게임 화면으로 전환<br>
-        <img src="Images/로그인.jpg" width="50%"><img src="Images/메뉴.jpg" width="50%"><br>
+        <img src="Images/로그인.jpg" width="50%"><img src="Images/메뉴.jpg" width="50%"><br><br>
         - 주인공의 초상화 클릭시 점수 추가<br>
         - 자동 점수 추가 업그레이드를하면 매초마다 자동으로 점수 상승<br>
         * Service를 이용한 백그라운드 동작으로 어플리케이션이 닫혀도 점수 상승
@@ -46,7 +46,7 @@
         <img src="Images/업글.jpg" width="50%"><br><br>
         - 옵션 창에서 카카오톡 공유 서비스가 가능한 버튼 제공<br>
         - 음성 음소거 기능 버튼 생성<br>
-        <img src="Images/옵션.jpg" width="50%"><img src="Images/카톡.jpg" width="50%"><br><br>
+        <img src="Images/옵션.jpg" width="50%"><img src="Images/카톡.jpg" width="50%"><br>
       </li>
       <br>
       <li><b>데이터 호출/저장</b><br>
@@ -55,7 +55,7 @@
       - 게임을 종료하거나 업그레이드, 배경 구매가 이루어지면 다음 작업 시작<br>
         1. 유저 데이터는 업그레이드 성공으로 얻은 값을 해당 데이터에 저장<br>
         2. 게임 데이터는 업그레이드 성공 시, 다음 업그레이드에 필요한 값이나 배경을 지목하여 데이터 저장<br>
-      <img src="Images/데이터저장법.png" width="80%"><br><br>
+      <img src="Images/데이터저장법.png" width="80%"><br>
       </li>
       <br>
       <li><b>사이툴을 통한 그래픽 제작 및 외부 폰트 적용</b><br>
