@@ -5,7 +5,6 @@
 <b>#Language :</b> Java<br>
 <b>#Platform :</b> Android<br>
 <b>#Date :</b> 2017<br>
-<b>#Video Link :</b> https://youtu.be/V7T6Vzx0gH4<br>
 </article>
 <br>
 
@@ -64,5 +63,4 @@
     </ol>
   </div>
   <h2>짧은 작동 영상</h2>
-  ![MyVideo](https://youtu.be/V7T6Vzx0gH4)
 </body>
